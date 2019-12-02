@@ -1,0 +1,57 @@
+[
+	{
+	    "id": 1,
+	    "title": "Quartz Belt Watch",
+	    "images": "img/product/product1.png",
+	  	"price": 150.00,			
+			"type": "Accessories",
+			"category": "Household",
+			"Availibility": "In Stock"
+
+  },
+	{
+			"id": 2,
+			"title": "Women Freshwash",
+			"images": "img/product/product2.png",
+			"price": 135.00,			
+			"type": "Accessories",
+			"category": "Household",
+			"Availibility": "In Stock"
+	},
+	{
+		"id": 3,
+		"title": "Room Flash Light",
+		"images": "img/product/product3.png",
+		"price": 179.00,			
+		"type": "Decor",
+		"category": "Household",
+		"Availibility": "In Stock"
+	},
+	{
+		"id": 4,
+		"title": "Man Office Bag",
+		"images": "img/product/product5.png",
+		"price": 579.00,			
+		"type": "Accessories",
+		"category": "Household",
+		"Availibility": "In Stock"
+	},
+	{
+		"id": 5,
+		"title": "Charging Car",
+		"images": "img/product/product6.png",
+		"price": 140.00,			
+		"type": "Kids Toy",
+		"category": "Household",
+		"Availibility": "In Stock"
+	},
+	{
+		"id": 6,
+		"title": "Blutooth Speaker",
+		"images": "img/product/product7.png",
+		"price": 150.00,			
+		"type": "Accessories",
+		"category": "Household",
+		"Availibility": "In Stock"
+	}
+]
